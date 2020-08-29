@@ -116,6 +116,7 @@ export default {
 }
 .form-group input {
   width: 80%;
+  max-width: 680px;
   margin: auto;
 }
 .btn-primary {
